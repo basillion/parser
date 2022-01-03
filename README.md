@@ -1,3 +1,3 @@
 # About
 
-It's a little parser for a one movie database site.
+It's a little parser for a movie database site.
